@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Zephyr:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Zephyr_jar</output-path>
+    <root id="archive" name="Zephyr.jar">
+      <element id="module-output" name="Zephyr" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Jars/jsonpath/json-20160810.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Jars/httpclient/commons-codec-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Jars/httpclient/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Jars/httpclient/httpclient-4.5.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Jars/httpclient/httpcore-4.4.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
